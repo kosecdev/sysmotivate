@@ -1,2 +1,2 @@
 mkdir C:\iwashere
-mkdir C:\iwashere123
+whoami > C:\whoami_output.txt
