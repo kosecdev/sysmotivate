@@ -1,2 +1,2 @@
 mkdir C:\iwashere
-whoami > C:\whoami_output.txt
+whoami > "%USERPROFILE%\Desktop\whoami_output.txt"
