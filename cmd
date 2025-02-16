@@ -1,1 +1,1 @@
-ipconfig > "%USERPROFILE%\Desktop\hello133333.txt"
+echo "Hello, TUD!" > "%USERPROFILE%\Desktop\iAMPawned.txt"
