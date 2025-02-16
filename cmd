@@ -1,1 +1,1 @@
-mkdir "%USERPROFILE%\Desktop\iwashere
+echo "Hello, World!" > "%USERPROFILE%\Desktop\hello.txt
