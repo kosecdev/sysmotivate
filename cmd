@@ -1,2 +1,1 @@
-mkdir C:\iwashere
-whoami > "%USERPROFILE%\Desktop\whoami_output.txt"
+mkdir "%USERPROFILE%\Desktop\iwashere
